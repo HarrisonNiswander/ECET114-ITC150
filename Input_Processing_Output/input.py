@@ -14,6 +14,22 @@
 
 # -------------------------------------------------------------------------------------------- 
 
+# Types of Input 
+#   String (Text)
+#   Integer (Int)
+#   Float (Decimals)
+
+# Integer Input
+age = int(input("How old are you? "))
+
+#Float Input
+money = float(input("How much is gas?"))
+
+# Show that invalid input can cause errors (like entering in strings for integer output)
+# Will learn to prevent this later with if statements and loops
+
+#--------------------------------------------------------------------------------------------
+
 # Homework 1 - Exercise #2
 # Objective: Ask the user for their name and age, then print a message repeating it back
 

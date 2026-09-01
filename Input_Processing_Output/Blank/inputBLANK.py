@@ -14,6 +14,19 @@
 
 # -------------------------------------------------------------------------------------------- 
 
+# Types of Input 
+#   String (Text)
+#   Integer (Int)
+#   Float (Decimals)
+
+# Integer Input
+
+
+#Float Input
+
+
+#--------------------------------------------------------------------------------------------
+
 # Homework 1 - Exercise #2
 # Objective: Ask the user for their name and age, then print a message repeating it back
 
