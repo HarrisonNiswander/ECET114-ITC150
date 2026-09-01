@@ -1,6 +1,6 @@
-#Harrison Niswander
+#[Name]
 #ECET 114 / ITC 150
-#9-1-26
+#[Date]
 #This program will introduce operations and how to use them (perform math)
 
 #--------------------------------------------------------------------------------------------
