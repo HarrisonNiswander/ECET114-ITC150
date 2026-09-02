@@ -61,7 +61,10 @@ name = input(namePrompt)
 age = int(input(agePrompt))
 
 # Print a message repeating the user's name and age back to them
-#print("Hello, " name "! You are " age " years old.")
+#print("Hello, " name "! You are " age " years old.")       #See if students catch error (missing commas)
 print("Hello, ", name ,"! You are ", age ," years old.")
+
+# There is a space between the name and the ! because of the way the print() function works. 
+# It automatically adds a space between each argument that is printed. 
 
 #--------------------------------------------------------------------------------------------
