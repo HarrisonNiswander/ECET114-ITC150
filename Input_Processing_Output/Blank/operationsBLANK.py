@@ -95,3 +95,35 @@ lengthB = 8
 
 #--------------------------------------------------------------------------------------------
 
+# Converting Formulas to Python Code
+# Example: Convert the following formula to Python code
+#                    a + b
+#                x = ----- - d
+#                      c
+
+# Answer: ??
+
+#--------------------------------------------------------------------------------------------
+
+# Mixed-Type Expression
+
+# Rules for Mixed-Type Expressions
+#   1. Operation on two integers -> result is an integer
+#   2. Operation on two floats -> result is a float
+#   3. Operation on an integer and a float -> result is a float
+#      =>  int temporarily converted to float for the operation
+
+# Example: Int & Float
+
+
+#--------------------------------------------------------------------------------------------
+
+# Data Type Conversion
+
+# int() function
+
+
+# float() function
+
+
+#--------------------------------------------------------------------------------------------

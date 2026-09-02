@@ -96,3 +96,41 @@ print("Operator Precedence Example 3: 2**3**2 = ", 2**3**2)           #Output is
 #--------------------------------------------------------------------------------------------
 
 # Converting Formulas to Python Code
+# Example: Convert the following formula to Python code
+#                    a + b
+#                x = ----- - d
+#                      c
+
+# Answer: ((a + b) / c) - d
+
+#--------------------------------------------------------------------------------------------
+
+# Mixed-Type Expression
+
+# Rules for Mixed-Type Expressions
+#   1. Operation on two integers -> result is an integer
+#   2. Operation on two floats -> result is a float
+#   3. Operation on an integer and a float -> result is a float
+#      =>  int temporarily converted to float for the operation
+
+# Example: Int & Float
+calculation = 5 * 2.0
+print("Mixed-Type Expression Example: 5 * 2.0 = ", calculation)   #Output is 10.0
+
+# Value 5 is temporarily converted to 5.0 for the operation, so the result is a float
+
+#--------------------------------------------------------------------------------------------
+
+# Data Type Conversion
+
+# int() function
+floatValue = 3.5
+intValue = int(floatValue)
+print("Data Type Conversion Example: int(3.5) = ", intValue)   #Output is 3
+
+# float() function
+intVal = 2
+floatVal = float(intVal)
+print("Data Type Conversion Example: float(2) = ", floatVal)   #Output is 2.0
+
+#--------------------------------------------------------------------------------------------
