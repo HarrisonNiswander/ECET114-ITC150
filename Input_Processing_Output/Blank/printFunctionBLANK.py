@@ -41,3 +41,26 @@ print("3rd line")
 
 
 #--------------------------------------------------------------------------------------------
+
+# Suppressing print() function's default new line character
+print('One', end=' ')
+print('Two', end=' ')
+print('Three')
+# Output: One Two Three
+
+print('One', end='')
+print('Two', end='')
+print('Three')
+# Output: OneTwoThree
+
+#--------------------------------------------------------------------------------------------
+
+# Item Seperator
+
+# Default - No Seperator
+
+
+# Custom Seperator
+
+
+#--------------------------------------------------------------------------------------------
