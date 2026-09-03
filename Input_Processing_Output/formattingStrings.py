@@ -72,6 +72,7 @@ print()
 
 # Floating-Point Number as Percentage
 # Syntax: {value:%}
+# Syntax: {value:.n%} - Rounding Percentage
 
 # Example
 number2 = 0.75
