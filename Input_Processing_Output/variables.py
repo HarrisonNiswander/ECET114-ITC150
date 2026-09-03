@@ -95,7 +95,7 @@ print(goals)
 #--------------------------------------------------------------------------------------------
 
 #Creating Constant Variables
-# MILE_IN_FEET = 5280
-# milesRan = 3
-# totalFeet = MILE_IN_FEET * milesRan
-# print("I ran", totalFeet, "feet today")
+MILE_IN_FEET = 5280
+milesRan = 3
+totalFeet = MILE_IN_FEET * milesRan
+print(f"I ran {totalFeet:,} feet today")
