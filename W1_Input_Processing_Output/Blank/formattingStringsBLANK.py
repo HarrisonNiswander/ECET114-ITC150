@@ -1,6 +1,6 @@
-#Harrison Niswander
+#[Name]
 #ECET 114 / ITC 150
-#9-3-26
+#[Date]
 #This program will introduce formatting output with F-strings and more
 
 #--------------------------------------------------------------------------------------------
