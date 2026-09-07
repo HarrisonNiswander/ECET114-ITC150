@@ -141,7 +141,7 @@
 # If the user inputs a grade above a 90 (including 90), they print a message about how they have an A in the class.
 # If the user inputs a grade below a 90, print a different message
 
-# Devlop Plan:
+# Develop Plan:
 
 #--------------------------------------------------------------------------------------------
 
