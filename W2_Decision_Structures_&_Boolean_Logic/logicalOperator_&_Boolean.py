@@ -103,7 +103,7 @@ if(not(x < 20 or x > 40)):
     print("x is in the range of 20 and 40")
 
 # Be Careful of Logical Errors
-if(not(x < 20 and x > 40)):
+if(x < 20 and x > 40):
     print("x is out of the range of 20 and 40")
 # -> x can't be less than 20 and greater than 40 at the same time
 
